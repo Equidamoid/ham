@@ -1,3 +1,11 @@
+This fork brings py3 support and the latest version of mysensors serial protocol.
+Actually I can't test Domoticz, and everything otside gateway dir so it should be broken. Fixes are welcome. PEP8 is mandatory.
+
+Current status:
+It works. At least for my test configuration with one switch and openhab ui.
+
+## The original readme
+
 Start here https://github.com/wbcode/ham/wiki
 
 ### Short overview
